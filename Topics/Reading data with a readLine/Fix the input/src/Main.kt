@@ -1,1 +1,0 @@
-    val n = readLine()!!.toInt()
