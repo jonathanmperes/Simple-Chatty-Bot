@@ -1,12 +1,11 @@
-package bot
+cdpackage bot
 
 import java.util.Scanner
-
 
 val scanner = Scanner(System.`in`)
 
 fun main() {
-    greet("Golden", "2021") 
+    greet("Golden", "2022")
     remindName()
     guessAge()
     count()
