@@ -5,7 +5,11 @@ import java.util.Scanner
 val scanner = Scanner(System.`in`)
 
 fun main() {
+<<<<<<< HEAD
     greet("Golden", "2022")
+=======
+    greet("Golden", "2021")
+>>>>>>> ecf5a3a946db3627c16bc7b66acacc2666a203a0
     remindName()
     guessAge()
     count()

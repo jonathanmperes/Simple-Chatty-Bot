@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/Simple Chatty Bot.iml" filepath="$PROJECT_DIR$/Simple Chatty Bot.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/Simple Chatty Bot.iml" filepath="$PROJECT_DIR$/.idea/Simple Chatty Bot.iml" />
+>>>>>>> ecf5a3a946db3627c16bc7b66acacc2666a203a0
     </modules>
   </component>
 </project>
